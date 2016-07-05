@@ -1,0 +1,2 @@
+Hello People!
+This is Smruti, making her first file for git
