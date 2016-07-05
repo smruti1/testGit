@@ -1,0 +1,3 @@
+
+Hello People!
+This is smruti, making her third file for git.
